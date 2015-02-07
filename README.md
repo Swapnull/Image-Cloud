@@ -5,6 +5,8 @@
 
 In the example, the image paths are pointing at icons from [Devicon](https://github.com/konpa/devicon).
 
+I am currenly using Bootstrap 3.3.2, which is the latest release at time of development. You will need this to take advantage of popover.
+
 ## Usage
 This is a small piece of jQuery that will take an external JSON file, setup with the correct fields and data, and will output images or text in a _'tag cloud'_ like format.
 
