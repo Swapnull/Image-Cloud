@@ -53,7 +53,7 @@ loadJSON(function(response) {
 
     }
     //initialise the bootstrap popover
-    //$('[data-toggle="popover"]').popover()
+    $('[data-toggle="popover"]').popover()
     });
 
 });
