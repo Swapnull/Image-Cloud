@@ -1,4 +1,4 @@
-  loadJSON(function(response) {
+loadJSON(function(response) {
     // Parse JSON string into object
     var skillJSON = JSON.parse(response);
 
