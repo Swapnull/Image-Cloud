@@ -1,3 +1,4 @@
+$(document).ready(function () {
 loadJSON(function(response) {
     // Parse JSON string into object
     var skillJSON = JSON.parse(response);
@@ -18,7 +19,7 @@ loadJSON(function(response) {
     }
 
     //Display the images from json file.
-    for(var i = 0; i< skills.length; i++){}
+    for(var i = 0; i< skills.length; i++){
       //calculate height and width (if using square images).
       var height = skills[i].rating * 10
 
@@ -38,7 +39,7 @@ loadJSON(function(response) {
     }
     //initialise the bootstrap popover
     //$('[data-toggle="popover"]').popover()
-
+});
 });
 
 /*Loads the icons for the skills section */
