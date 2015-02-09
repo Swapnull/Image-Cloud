@@ -1,4 +1,3 @@
-$(document).ready(function(){
   loadJSON(function(response) {
     // Parse JSON string into object
     var skillJSON = JSON.parse(response);
@@ -39,8 +38,6 @@ $(document).ready(function(){
     }
     //initialise the bootstrap popover
     //$('[data-toggle="popover"]').popover()
-  })
-
 
 });
 
