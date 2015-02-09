@@ -2,7 +2,7 @@
   "HTML":{
     "id": "ic-html",
     "name": "HTML",
-    "icon": "<img src='http://konpa.github.io/devicon/icons/html5-original.svg'>",
+    "icon": "<img src='http://konpa.github.io/devicon/icons/html5/html5-original.svg'>",
     "rating" :"10"
   },
   "CSS":{
