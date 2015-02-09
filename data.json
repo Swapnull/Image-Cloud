@@ -2,31 +2,31 @@
   "HTML":{
     "id": "ic-html",
     "name": "HTML",
-    "icon": "<img src='/img/devicon/icons/html5/html5-original.svg'>",
+    "icon": "<img src='http://konpa.github.io/devicon/icons/html5-original.svg'>",
     "rating" :"10"
   },
   "CSS":{
     "id": "ic-css",
     "name": "CSS",
-    "icon": "<img src='/img/devicon/icons/css3/css3-original.svg'>",
+    "icon": "<img src='http://konpa.github.io/devicon/icons/css3/css3-original.svg'>",
     "rating" :"10"
   },
   "Python":{
     "id": "ic-py",
     "name": "Python",
-    "icon": "<img src='/img/devicon/icons/python/python-original.svg'>",
+    "icon": "<img src='http://konpa.github.io/devicon/icons/python/python-original.svg'>",
     "rating" :"6"
   },
   "JavaScript":{
     "id": "ic-js",
     "name": "JavaScript",
-    "icon": "<img src='/img/devicon/icons/javascript/javascript-original.svg'>",
+    "icon": "<img src='http://konpa.github.io/devicon/icons/javascript/javascript-original.svg'>",
     "rating" :"6"
   },
   "jQuery":{
     "id": "ic-jquery",
     "name": "jQuery",
-    "icon": "<img src='/img/devicon/icons/jquery/jquery-original.svg'>",
+    "icon": "<img src='http://konpa.github.io/devicon/icons/jquery/jquery-original.svg'>",
     "rating" :"6"
   },
   "C++":{
@@ -38,61 +38,61 @@
   "Java":{
     "id": "ic-java",
     "name": "Java",
-    "icon": "<img src='/img/devicon/icons/java/java-original.svg'>",
+    "icon": "<img src='http://konpa.github.io/devicon/icons/java/java-original.svg'>",
     "rating" :"4"
   },
   "Microsoft.NET":{
     "id": "ic-net",
     "name": "Microsoft.NET",
-    "icon": "<img src='/img/devicon/icons/dot-net/dot-net-original.svg'>",
+    "icon": "<img src='http://konpa.github.io/devicon/icons/dot-net/dot-net-original.svg'>",
     "rating" :"5"
   },
   "Git":{
     "id": "ic-git",
     "name": "Git",
-    "icon": "<img src='/img/devicon/icons/git/git-original.svg'>",
+    "icon": "<img src='http://konpa.github.io/devicon/icons/git/git-original.svg'>",
     "rating" : "8"
   },
   "Gulp":{
     "id": "ic-gulp",
     "name": "Gulp",
-    "icon": "<img src='/img/devicon/icons/gulp/gulp-plain.svg'>",
+    "icon": "<img src='http://konpa.github.io/devicon/icons/gulp/gulp-plain.svg'>",
     "rating" :"4"
   },
   "Linux":{
     "id": "ic-linux",
     "name": "Linux",
-    "icon": "<img src='/img/devicon/icons/linux/linux-original.svg'>",
+    "icon": "<img src='http://konpa.github.io/devicon/icons/linux/linux-original.svg'>",
     "rating" :"8"
   },
   "MongoDB":{
     "id": "ic-mongo",
     "name": "MongoDB",
-    "icon": "<img src='/img/devicon/icons/mongodb/mongodb-original.svg'>",
+    "icon": "<img src='http://konpa.github.io/devicon/icons/mongodb/mongodb-original.svg'>",
     "rating" :"5"
   },
   "Node.JS":{
     "id": "ic-node",
     "name": "Node.JS",
-    "icon": "<img src='/img/devicon/icons/nodejs/nodejs-original.svg'>",
+    "icon": "<img src='http://konpa.github.io/devicon/icons/nodejs/nodejs-original.svg'>",
     "rating" : "5"
   },
   "SQL":{
     "id": "ic-sql",
     "name": "SQL",
-    "icon": "<img src='/img/devicon/icons/mysql/mysql-original.svg'>",
+    "icon": "<img src='http://konpa.github.io/devicon/icons/mysql/mysql-original.svg'>",
     "rating" :"8"
   },
   "Bootstrap":{
     "id": "ic-bs",
     "name": "Bootstrap",
-    "icon": "<img src='/img/devicon/icons/bootstrap/bootstrap-plain.svg'>",
+    "icon": "<img src='http://konpa.github.io/devicon/icons/bootstrap/bootstrap-plain.svg'>",
     "rating" :"9"
   },
   "Angular.JS":{
     "id": "ic-ang",
     "name": "Angular.JS",
-    "icon": "<img src='/img/devicon/icons/angularjs/angularjs-original.svg'>",
+    "icon": "<img src='http://konpa.github.io/devicon/icons/angularjs/angularjs-original.svg'>",
     "rating" :"3"
   }
 }
