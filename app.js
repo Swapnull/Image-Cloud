@@ -38,7 +38,7 @@ $(document).ready(function(){
 
     }
     //initialise the bootstrap popover
-    $('[data-toggle="popover"]').popover()
+    //$('[data-toggle="popover"]').popover()
 
 
 
